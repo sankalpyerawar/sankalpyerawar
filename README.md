@@ -1,16 +1,26 @@
-# Hello, World! 👋 I'm Sankalp, a Backend Developer from Pune, India.
+# Greetings! 👋 I'm Sankalp, a Backend Developer.
 
-<!--
-**sankalpyerawar/sankalpyerawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software engineer with a strong focus on backend API development. Colleagues describe me as a highly motivated individual passionate about creating technological innovations.
 
-Here are some ideas to get you started:
+💡 I enjoy leveraging creativity and problem-solving skills to drive innovation. Always eager to explore new challenges and contribute to meaningful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Skills:**
+- Languages: Kotlin, Python, C#, Java
+- Tools & Technologies: Spring Boot, Hibernate, Micronaut, Git, AWS, Kubernetes, Docker
+- Version Control: Git
+- Database: PostgreSQL
+
+🌱 **Currently exploring:**
+- LLMs
+- DevOps
+
+🌐 **Let's Connect:**
+
+[![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:sankalpyerawar@gmail.com)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/sankalpyerawar/) 
+
+Let's connect and share insights! 🌐
+
+Feel free to explore my repositories and connect with me!
+
+Happy coding! 🚀
