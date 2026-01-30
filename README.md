@@ -36,9 +36,4 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Sankalp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sankalpyerawar&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpyerawar&layout=compact&theme=radical&hide_border=true)
-
 ### Happy coding! 🚀
